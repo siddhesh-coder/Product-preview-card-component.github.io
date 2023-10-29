@@ -44,7 +44,6 @@ body{
     
 }
 
-
 .right-box{
     width: 300px;
     height: 460px;
@@ -122,6 +121,9 @@ button:hover{
     cursor: pointer;
     background-color: hsl(156, 32%, 23%);
 }
+
+.attribution { font-size: 11px; text-align: center; margin-top: 30px;}
+    .attribution a { color: hsl(228, 45%, 44%); }
 
 @media (max-width: 768px) {
     #container{

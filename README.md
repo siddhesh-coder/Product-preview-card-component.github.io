@@ -32,8 +32,8 @@ Users should be able to:
 ![](images/mobile-design.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/product-preview-card-component-jJPRWscVo3)
+- Live Site URL: [Here](https://siddhesh-coder.github.io/Product-preview-card-component.github.io/)
 
 ## My process
 
